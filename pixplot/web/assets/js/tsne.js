@@ -3550,11 +3550,11 @@ function Tooltip() {
     },
     {
       elem: document.querySelector('#layout-umap'),
-      text: 'Cluster images via UMAP dimensionality reduction',
+      text: 'Cluster images via CVAE dimensionality reduction',
     },
     {
       elem: document.querySelector('#layout-grid'),
-      text: 'Represent UMAP clusters on a grid',
+      text: 'Represent clusters on a grid',
     },
     {
       elem: document.querySelector('#layout-date'),
