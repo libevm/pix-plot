@@ -1,0 +1,2 @@
+model_checkpoint_path: "bayc_checkpoint.ckpt"
+all_model_checkpoint_paths: "bayc_checkpoint.ckpt"

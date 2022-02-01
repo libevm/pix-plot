@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 ##
 
 
-checkpoint_dir = os.path.join(os.path.dirname(__file__), 'model', 'checkpoint', 'bayc_checkpoint.ckpt')
+checkpoint_dir = os.path.join(os.path.dirname(__file__), 'model', 'checkpoint', 'bayc_kgf', 'kgf_bayc_cvae.ckpt')
 
 
 def timestamp():
