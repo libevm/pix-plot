@@ -146,6 +146,23 @@ select:disabled {
   width: 80px;
 }
 
+#image-filter-input {
+  color: #999;
+  font-size: 16px;
+  margin-left: 10px;
+  padding: 5px 25px;
+  font-weight: 400;
+  letter-spacing: .025em;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+  box-sizing: border-box;
+  background: #333333;
+  position: relative;
+  z-index: 1;
+  white-space: nowrap;
+}
+
 /**
 * Header
 **/
@@ -1071,6 +1088,10 @@ button {
 
 #enter-button {
   opacity: 0.4;
+}
+
+#jump-button {
+  margin-left: 10px;
 }
 
 #enter-button.active {
